@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd44d264-6325-42a4-bd2f-f6e83970c981" name="Changes" comment="aula 01, Entendendo Laços de repetição e arrays">
-      <change afterPath="$PROJECT_DIR$/src/edu/guilherme/lacos/Nota.java" afterDir="false" />
+    <list default="true" id="fd44d264-6325-42a4-bd2f-f6e83970c981" name="Changes" comment="aula 02, Entendendo Laços de repetição e arrays">
+      <change afterPath="$PROJECT_DIR$/src/edu/guilherme/lacos/MaiorEMedia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677163854853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aula 02, Entendendo Laços de repetição e arrays">
+      <created>1677164437075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677164437075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aula 01, Entendendo Laços de repetição e arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 01, Entendendo Laços de repetição e arrays" />
+    <MESSAGE value="aula 02, Entendendo Laços de repetição e arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 02, Entendendo Laços de repetição e arrays" />
   </component>
 </project>
