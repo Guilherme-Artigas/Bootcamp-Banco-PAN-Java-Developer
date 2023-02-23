@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd44d264-6325-42a4-bd2f-f6e83970c981" name="Changes" comment="aula 03, Entendendo controle de fluxo">
-      <change afterPath="$PROJECT_DIR$/src/edu/guilherme/lacos/NomeIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd44d264-6325-42a4-bd2f-f6e83970c981" name="Changes" comment="aula 01, Entendendo Laços de repetição e arrays">
+      <change afterPath="$PROJECT_DIR$/src/edu/guilherme/lacos/Nota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677057449189</updated>
     </task>
+    <task id="LOCAL-00001" summary="aula 01, Entendendo Laços de repetição e arrays">
+      <created>1677163854853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677163854853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aula 01, Entendendo Laços de repetição e arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 01, Entendendo Laços de repetição e arrays" />
   </component>
 </project>
